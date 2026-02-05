@@ -24,18 +24,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Madhusudan Adhikari"
+  pronouns         : # example: "He/Him"  
+  bio              : "M.Sc. Graduate Searching for Phd Opportunities"
+  location         : "Kathmandu"
+  employer         : "Tribhuvan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "madhusudan.807523@cdl.tu.edu.np" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=X5XP5wMAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
